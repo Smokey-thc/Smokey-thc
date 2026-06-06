@@ -2,9 +2,10 @@
 
 # hey, i'm Smokey 👋
 
-**Rust developer** building native Windows tools — fast, clean, no bloat.
+**Rust developer** building Windows / Linux tools — fast, clean, no bloat.
 
 [![](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
 
@@ -27,12 +28,10 @@
 
 ## 🚀 Projects
 
-<a href="https://github.com/Smokey-thc/ConFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smokey-thc&repo=ConFlow&theme=github_dark&hide_border=true"/>
-</a>
-<a href="https://github.com/Smokey-thc/Fanflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smokey-thc&repo=Fanflow&theme=github_dark&hide_border=true"/>
-</a>
+| Project | Description | Language |
+|---|---|---|
+| [**ConFlow**](https://github.com/Smokey-thc/ConFlow) | PS4 DualShock 4 → XInput bridge for Windows | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| [**Fanflow**](https://github.com/Smokey-thc/Fanflow) | Fan control for Linux with Nvidia & Hyprland support | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 
 </div>
 
